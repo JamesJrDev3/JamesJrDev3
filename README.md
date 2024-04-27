@@ -1,7 +1,6 @@
 
 # Em busca do meu sonho!💭
-- Minha jornada começou em 2018 com HTML e CSS criando site com amigos por diversão, depois de alguns anos parado por questão de saúde, eu finalmente resolvi tornar meu hobby, esse passatempo mais profissional.
-____
+
 📩 **Contatos**
 
 [![BLOG](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/JamesJrDev3)
